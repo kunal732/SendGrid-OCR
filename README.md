@@ -12,5 +12,5 @@ This app allows you to take a photo of any printed text and convert it to an edi
 
 
 
-This app takes advantange of SendGrids Inbound Parse Webhook as well the SMTP API. For more information check out our
+This app takes advantange of the SendGrid Inbound Parse Webhook as well the SMTP API. For more information check out our
 awesome documentation. (http://sendgrid.com/docs/index.html)
